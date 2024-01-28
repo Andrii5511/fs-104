@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "images",
+		"path": "../../../Desktop/images"
+	},
+	{
+		"name": "mordu",
+		"path": "../../../Desktop/mordu"
+	},
+	{
+		"name": "fs-104",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "mordu"
+  }
+}
